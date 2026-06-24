@@ -22,7 +22,7 @@ export default function SystemHealth() {
       </div>
 
       <div className="mt-3 text-xs text-muted">
-        (bakki cheyan madiyann)
+        (bakki model train ayitt)
       </div>
     </section>
   );
